@@ -1,0 +1,41 @@
+patient_id,cohort,age,gender,baseline_bmi,systolic_bp,diastolic_bp,heart_rate,temperature,drug_dosage_mg,efficacy_score,biomarker_level,response_status,compliance_rate,missed_doses,visit_adherence,adverse_events,adverse_event_severity,doctor_notes,trial_week,site_id,withdrawal
+PT0001,Treatment_A,45,M,24.3,128,82,72,98.4,20,7.8,48.3,Responder,0.95,1,1.0,None,None,Patient responding well to treatment,12,SITE_001,False
+PT0002,Treatment_B,62,F,27.1,145,90,78,98.7,40,5.2,61.2,Partial,0.82,4,0.9,Mild Nausea,Grade 1,Patient reports mild side effects,8,SITE_002,False
+PT0003,Control,38,M,22.8,118,76,68,98.2,10,3.1,44.5,Non-Responder,0.91,2,0.95,None,None,Stable condition continuing protocol,16,SITE_001,False
+PT0004,Treatment_A,55,F,29.5,155,95,82,98.9,40,8.9,35.1,Responder,0.98,0,1.0,None,None,Excellent response observed,20,SITE_003,False
+PT0005,Treatment_B,41,M,25.7,132,84,74,98.5,20,4.3,55.8,Partial,0.68,8,0.75,Headache,Grade 1,Non-compliant - missed multiple doses,6,SITE_002,False
+PT0006,Control,70,F,31.2,162,98,88,99.1,10,2.8,67.4,Non-Responder,0.55,12,0.6,Fatigue,Grade 2,Concerning adverse event reported,4,SITE_001,True
+PT0007,Treatment_A,33,M,21.4,122,78,66,98.3,20,9.1,29.8,Responder,1.0,0,1.0,None,None,Excellent response observed,24,SITE_003,False
+PT0008,Treatment_B,58,F,26.9,148,92,80,98.8,80,6.7,52.4,Responder,0.89,3,0.85,None,None,Patient responding well to treatment,18,SITE_002,False
+PT0009,Control,47,M,23.6,124,80,70,98.5,10,2.2,41.3,Non-Responder,0.92,2,0.9,None,None,Stable condition continuing protocol,10,SITE_001,False
+PT0010,Treatment_A,64,F,28.4,158,96,84,99.0,40,7.2,38.9,Responder,0.85,4,0.9,Mild Nausea,Grade 1,Patient reports mild side effects,14,SITE_003,False
+PT0011,Treatment_B,36,M,22.1,119,77,67,98.2,20,5.9,49.7,Partial,0.97,1,0.95,None,None,Stable condition continuing protocol,22,SITE_002,False
+PT0012,Control,52,F,30.1,152,94,81,98.7,10,1.9,62.1,Non-Responder,0.61,10,0.65,Severe Rash,Grade 3,Patient withdrawn due to adverse event,3,SITE_001,True
+PT0013,Treatment_A,49,M,25.2,130,83,73,98.6,20,8.4,33.6,Responder,0.93,2,0.95,None,None,Patient responding well to treatment,16,SITE_003,False
+PT0014,Treatment_B,67,F,29.8,160,97,86,99.2,80,4.8,58.3,Partial,0.74,7,0.8,Headache,Grade 1,Non-compliant - missed multiple doses,8,SITE_002,False
+PT0015,Control,43,M,24.0,126,81,71,98.4,10,3.4,46.2,Non-Responder,0.88,3,0.85,None,None,Stable condition continuing protocol,12,SITE_001,False
+PT0016,Treatment_A,57,F,27.6,143,88,77,98.7,40,8.1,36.4,Responder,0.96,1,1.0,None,None,Excellent response observed,20,SITE_003,False
+PT0017,Treatment_B,40,M,23.3,121,78,68,98.3,20,6.2,50.9,Partial,0.82,5,0.85,Fatigue,Grade 1,Patient reports mild side effects,10,SITE_002,False
+PT0018,Control,73,F,32.5,168,102,91,99.3,10,1.5,70.8,Non-Responder,0.59,11,0.6,Fatigue,Grade 2,Concerning adverse event reported,5,SITE_001,False
+PT0019,Treatment_A,30,M,20.8,115,74,64,98.1,10,9.5,27.4,Responder,1.0,0,1.0,None,None,Excellent response observed,26,SITE_003,False
+PT0020,Treatment_B,61,F,28.1,150,93,82,98.9,40,5.6,54.7,Partial,0.86,4,0.9,None,None,Stable condition continuing protocol,14,SITE_002,False
+PT0021,Control,46,M,24.8,128,82,72,98.5,10,2.6,43.8,Non-Responder,0.9,3,0.9,None,None,Patient responding well to treatment,18,SITE_001,False
+PT0022,Treatment_A,53,F,26.4,136,85,75,98.6,20,7.6,39.1,Responder,0.94,2,0.95,None,None,Patient responding well to treatment,22,SITE_003,False
+PT0023,Treatment_B,37,M,21.9,120,77,67,98.2,20,6.8,48.2,Partial,0.91,2,0.95,Mild Nausea,Grade 1,Patient reports mild side effects,16,SITE_002,False
+PT0024,Control,68,F,31.7,165,100,89,99.1,10,2.1,65.3,Non-Responder,0.63,10,0.65,None,None,Non-compliant - missed multiple doses,6,SITE_001,False
+PT0025,Treatment_A,44,M,24.1,127,81,71,98.4,40,8.7,31.5,Responder,0.97,1,1.0,None,None,Excellent response observed,24,SITE_003,False
+PT0026,Treatment_B,59,F,27.3,146,91,79,98.8,80,5.1,56.9,Partial,0.78,6,0.8,Headache,Grade 2,Patient reports mild side effects,12,SITE_002,False
+PT0027,Control,42,M,23.5,125,80,70,98.4,10,3.0,45.1,Non-Responder,0.87,4,0.85,None,None,Stable condition continuing protocol,20,SITE_001,False
+PT0028,Treatment_A,65,F,29.2,156,95,83,99.0,40,7.9,37.2,Responder,0.92,2,0.95,None,None,Patient responding well to treatment,16,SITE_003,False
+PT0029,Treatment_B,35,M,22.4,118,76,66,98.2,20,6.5,47.6,Partial,0.95,1,1.0,None,None,Stable condition continuing protocol,8,SITE_002,False
+PT0030,Control,71,F,33.0,170,104,92,99.4,10,1.3,72.1,Non-Responder,0.56,13,0.55,Severe Rash,Grade 3,Patient withdrawn due to adverse event,2,SITE_001,True
+PT0031,Treatment_A,48,M,25.0,129,82,72,98.5,20,8.3,34.0,Responder,0.96,1,1.0,None,None,Excellent response observed,28,SITE_003,False
+PT0032,Treatment_B,66,F,30.0,161,98,87,99.2,80,4.6,59.8,Partial,0.72,8,0.75,Fatigue,Grade 2,Concerning adverse event reported,10,SITE_002,False
+PT0033,Control,39,M,22.0,119,77,67,98.2,10,2.8,44.7,Non-Responder,0.89,3,0.9,None,None,Stable condition continuing protocol,14,SITE_001,False
+PT0034,Treatment_A,56,F,27.0,141,87,76,98.7,40,8.0,36.8,Responder,0.98,0,1.0,None,None,Excellent response observed,22,SITE_003,False
+PT0035,Treatment_B,43,M,24.2,124,80,70,98.4,20,5.8,51.4,Partial,0.84,5,0.85,Mild Nausea,Grade 1,Patient reports mild side effects,18,SITE_002,False
+PT0036,Control,62,F,29.6,154,95,82,98.9,10,2.4,63.7,Non-Responder,0.65,9,0.7,None,None,Non-compliant - missed multiple doses,8,SITE_001,False
+PT0037,Treatment_A,32,M,21.1,116,74,64,98.1,10,9.3,28.1,Responder,1.0,0,1.0,None,None,Excellent response observed,30,SITE_003,False
+PT0038,Treatment_B,60,F,28.5,149,93,81,98.8,40,5.4,53.6,Partial,0.88,3,0.9,None,None,Stable condition continuing protocol,16,SITE_002,False
+PT0039,Control,45,M,24.4,127,82,71,98.5,10,2.9,45.6,Non-Responder,0.9,2,0.9,None,None,Stable condition continuing protocol,20,SITE_001,False
+PT0040,Treatment_A,63,F,28.9,154,94,82,98.9,40,7.5,38.0,Responder,0.93,2,0.95,None,None,Patient responding well to treatment,18,SITE_003,False
